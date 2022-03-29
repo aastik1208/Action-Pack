@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tile: MyString
+  note: MyText
+  book: one
+
+two:
+  tile: MyString
+  note: MyText
+  book: two
